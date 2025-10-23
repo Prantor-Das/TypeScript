@@ -38,14 +38,21 @@ class Manager implements People {
     }
 }
 
-// Create a new Manager object with the name "Bharat" and age 22
-let manager = new Manager("Bharat", 22);
+// class God extends Manager {
+//     constructor(name: string, age: number) {
+//         super(name, age);
+//     }
+// }
+
+
+// Create a new Manager object with the name "Prantor" and age 20
+let manager = new Manager("Prantor", 20);
 
 // Print the manager object to the console
-console.log(manager); // Manager { name: 'Bharat', age: 22, greet: [Function (anonymous)], phone: 1234567890 }
+console.log(manager); // Manager { name: 'Prantor', age: 20, greet: [Function (anonymous)], phone: 1234567890 }
 
 // Access the properties of the manager object and print them to the console
-console.log(manager.age); // 22
+console.log(manager.age); // 20
 
 // Call the greet function of the manager object and store the result in a variable called managerGreeting
 let managerGreeting = manager.greet();

@@ -44,6 +44,15 @@ class Rectangle extends Shape {
     }
 }
 
+// Another way to write the Rectangle class using shorthand for properties
+// class Rectangle extends Shape {
+//     constructor(public width: number, public height: number) {
+//         super(); // Call the constructor of the parent class Shape
+//         this.width = width;
+//         this.height = height;
+//     }
+// }
+
 const r = new Rectangle(10, 20);
 r.area() // This is the area of the shape
 
