@@ -1,1 +1,1 @@
-{"root":["./src/01_enum.ts","./src/01_practice.ts","./src/02_gen.ts","./src/02_generics.ts"],"version":"5.9.3"}
+{"root":["./src/01_enum.ts","./src/01_practice.ts","./src/02_gen.ts","./src/02_generics.ts","./src/practice/01_pick.ts","./src/practice/02_partial.ts","./src/practice/03_readonly.ts","./src/practice/03_read_only.ts","./src/practice/04_records&maps.ts","./src/practice/05_exclude.ts"],"version":"5.9.3"}
