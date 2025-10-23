@@ -26,7 +26,8 @@ function firstElGeneric<T>(arr: T[]): T | undefined {
   return arr[0];
 }
 const str = firstElGeneric<string>(["a", "b", "c"]); // str is of type string
-const num = firstElGeneric([1, 2, 3]); // num is of type number
+const num = firstElGeneric<number>([1, 2, 3]); // num is of type number
+const bool = firstElGeneric<boolean>([true, false, true]); // bool is of type boolean
 // num = "hello"; // This will give an error now because num is of type number
 
 // 2) Generics with multiple types
