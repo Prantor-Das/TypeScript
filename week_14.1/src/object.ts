@@ -21,3 +21,9 @@ let user = {
 // };
 
 greeting(user);
+
+// ts can sum number + number
+// ts can also sum string + string
+// ts can also sum string + number or number + string 
+
+// ts cannot sum (number | string) + (number | string)
