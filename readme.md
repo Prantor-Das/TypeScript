@@ -16,7 +16,7 @@
 - [**Automatically compile TypeScript files on file save**](https://stackoverflow.com/questions/51128841/automatically-compile-typescript-files-on-file-save)
 
 
-## Some contents are referred from:- 
+## Some contents I referred from:- 
 - https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops/tree/main/Week%2014%20-%20TypeScript
 
 - https://github.com/irohandev/WebDev-DevOps-Cohort-3.0/tree/main/Week-14%20TypeScript
